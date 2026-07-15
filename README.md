@@ -12,7 +12,7 @@
     <!-- Navbar -->
     <header>
         <nav class="navbar">
-            <h2 class="logo">Koushik.</h2>
+            <h2 class="logo">varshith.</h2>
             <ul class="nav-links">
                 <li><a href="#about">About</a></li>
                 <li><a href="#skills">Skills</a></li>
